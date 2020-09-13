@@ -1,4 +1,4 @@
-# PongAlone
+# Pong Alone
 ![screen1](/screenshot/screenshot1.png )
 
 ## About 
